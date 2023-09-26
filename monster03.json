@@ -1,0 +1,11 @@
+{ 
+   "description": "Borka un vigilante con múltiples tentáculos y diversos ojos que resguarda la entrada del cementerio en lo profundo del océano Atlántico.", 
+   "image": "https://github.com/RebecaArtemis/Los-Primeros/blob/main/monster03.jpg", 
+   "name": "Borka", 
+   "attributes": [ 
+     { 
+       "trait_type": "Art-created-by", 
+       "value": "Rebeca Artemis" 
+     }
+   ] 
+ }
